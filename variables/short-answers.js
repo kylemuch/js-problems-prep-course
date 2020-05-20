@@ -20,3 +20,4 @@ console.log(foo)
 // there is no error, the constant in the curly brackets can be
 // succesfully intialized because the {} create a new scope
 // so there is no collision with the FOO on line 1
+
